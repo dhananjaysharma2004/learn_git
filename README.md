@@ -1,2 +1,1 @@
-# learngit
-# learngit
+# learn_git
